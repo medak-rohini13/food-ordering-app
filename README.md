@@ -3,13 +3,6 @@
 A modern **food ordering web application UI** built using **HTML, CSS (Bootstrap 5), and JavaScript**.  
 It simulates a simple Swiggy/Zomato-style ordering system with a cart and total price calculation.
 
----
-
-## 🚀 Live Demo
-
-👉 If hosted using GitHub Pages:
-
-https://your-username.github.io/food-ordering-app/
 
 ---
 
