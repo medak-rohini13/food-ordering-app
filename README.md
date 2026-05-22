@@ -8,7 +8,8 @@ It simulates a simple Swiggy/Zomato-style ordering system with a cart and total 
 
 ## 📸 Preview
 
-![App Preview](https://images.unsplash.com/photo-1604908177522-040f8b3e6a3e)
+<img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/ef921121-8337-4feb-9964-b4c71a24319a" />
+
 
 ---
 
